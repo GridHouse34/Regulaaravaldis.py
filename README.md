@@ -55,4 +55,3 @@ seen.add((name, email)) – lisab paari hulka, et see tulevikus enam ei korduks.
 
 print(f"{name};{email}") – väljastab tulemuse formaadis
 
-e
